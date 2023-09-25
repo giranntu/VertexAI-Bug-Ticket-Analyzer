@@ -12,7 +12,7 @@ A Streamlit-based ticket analysis system that utilizes the Vertex AI language mo
 
 ```bash
 
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/giranntu/VertexAI-Bug-Ticket-Analyzer.git)
 
 cd <repository_directory>
 
